@@ -1,6 +1,6 @@
 ---
 title: "{{ env.NEEDTOFOLLOW }} has followed you"
-assignees: polcats
+assignees: nomyanisanisland
 labels: enchancement
 ---
 
