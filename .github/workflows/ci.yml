@@ -1,4 +1,4 @@
-name: Followback Checker
+name: Followback Checker 
 
 on:
     schedule:
